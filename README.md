@@ -66,7 +66,7 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-8.png">
 </p>
 
-![](https://github.com/Hathaichanok241/LAB-11/blob/master/imgs/11.5.PNG?raw=true)
+![](https://github.com/Hathaichanok241/LAB-11/blob/master/imgs/11.7.PNG?raw=true)
 ###แบบทดสอบ 
 ให้เลื่อนจุดศูนย์กลางและปรับเปลี่ยนสี ให้ได้รูปดังนี้
 <p align = "center">
